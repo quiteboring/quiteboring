@@ -1,7 +1,6 @@
-                           じしˍ,)ノ
 <div align="center">
 
-### Hi there, I'm Nathan 👋  
+## Hi there, I'm Nathan 👋  
 
 </div>
 
@@ -21,7 +20,6 @@
     <tr>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=quiteboring&theme=tokyonight" alt="GitHub Streak" />
-        <img src="https://img.shields.io/badge/GitHub-Fan-181717?style=for-the-badge&logo=github&logoColor=white" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quiteboring&layout=compact&theme=tokyonight" alt="Top Languages"/>  
