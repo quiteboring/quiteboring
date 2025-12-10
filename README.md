@@ -14,9 +14,5 @@
   <summary>Other Stuff</summary>
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quiteboring&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quiteboring&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <br/>
   <img src="https://komarev.com/ghpvc/?username=quiteboring&style=for-the-badge&color=blue" alt="Stalkers"/>
 </details>
